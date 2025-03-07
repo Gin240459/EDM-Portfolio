@@ -14,3 +14,5 @@
 
 # Step 4 Here's the screenshot of my output after i started data cleaning (See Screenshot)
 <img src="image/after.jpeg" alt="Alt Text" width="400" height="300">
+
+# Here's the Physical Data Model
