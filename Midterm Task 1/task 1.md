@@ -16,3 +16,4 @@
 <img src="image/after.jpeg" alt="Alt Text" width="400" height="300">
 
 # Here's the Physical Data Model
+<img src="image/erd.png" alt="Alt Text" width="400" height="300">
