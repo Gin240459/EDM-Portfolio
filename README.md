@@ -6,6 +6,6 @@ This is my data management portfolio in EDMio
 College: Bachelor of Science in Information Systems (CCA)
 High School:Labnig National High School
 Elementary
-# My Projects
-Midterm Lab Task 1:Data Cleaning and Preparation using EXCEL
-Midterm Lab Task 2:Data Cleaning and Preparation using POWER QUERY
+### My Projects
+- Midterm Lab Task 1:Data Cleaning and Preparation using EXCEL
+- Midterm Lab Task 2:Data Cleaning and Preparation using POWER QUERY
