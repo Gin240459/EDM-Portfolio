@@ -58,7 +58,7 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 ## Sal By State ref:
 
-<img src="" alt="Alt Text" width="1000" height="500">
+<img src="image/SalByState.png" alt="Alt Text" width="1000" height="500">
 
 
 ## Query Dependencies:
