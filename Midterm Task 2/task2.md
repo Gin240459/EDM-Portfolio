@@ -42,7 +42,7 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 ## Cleaned DS Jobs: 
 
-<img src="" alt="Alt Text" width="1000" height="500">
+<img src="image/UnCleaned_DS!.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
 
