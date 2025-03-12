@@ -7,5 +7,5 @@ This is my data management portfolio in EDMio
 - High School:Labnig National High School
 - Elementary
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/task%201.md)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using EXCEL]([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Midterm%20Task%201/task%201.md))
 - Midterm Lab Task 2:Data Cleaning and Preparation using POWER QUERY
