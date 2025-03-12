@@ -50,7 +50,7 @@ Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](
 
 ## Sal By Role Size ref:
 
-<img src="" alt="Alt Text" width="1000" height="500">
+<img src="image/CleanDat.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By State:
 
