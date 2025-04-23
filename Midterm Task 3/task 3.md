@@ -17,3 +17,5 @@ Create a Pivot Table-based dashboard using the provided dataset. Summarize salar
 6. Customized the Dashboard
 - Applied design and color settings to improve visual appeal and readability.
 # Final output (screenshot of the dashboard):
+<img src="image/Screenshot 2025-04-23 at 16.41.35.png" alt="Alt Text" width="1000" height="500">
+
