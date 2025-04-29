@@ -25,6 +25,7 @@ https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/assi
 - version: Integer, represent the version of the submision.
 - submit_date: Date, cannot be null.
 - data: Text.
+https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/submisionTable.png
 
 # ER Diagram or Relational Schema
 https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/ERD.png
