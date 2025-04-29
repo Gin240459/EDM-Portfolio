@@ -16,7 +16,7 @@ https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/stud
  - shortname: String (VARCHAR) up to 50 characters.
  - due_date: cannot be NULL
  - url: String (VARCHAR), up to 255 characters, can be NULL.
-
+https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/assignmentTable.png
 
 # Step 3  Create the Submission Table
 ## Submission Table
