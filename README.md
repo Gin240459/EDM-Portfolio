@@ -9,7 +9,7 @@ This is my data management portfolio in EDMio
 ### My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL]([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Midterm%20Task%201/task%201.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Midterm%20Task%202/task2.md)
-- Midterm Lab Task 3: [Using Pivot Table and Create Dashboard] (https://github.com/Gin240459/EDM-Portfolio/blob/main/Midterm%20Task%203/task%203.md)
+- Midterm Lab Task 3: [Using Pivot Table and Create Dashboard] ([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Midterm%20Task%203/task%203.md)
 
 ## Final Lab Task ##
 
