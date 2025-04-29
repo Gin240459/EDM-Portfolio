@@ -8,7 +8,8 @@
 # Step 1 Create the Student Table
 ## Student tabale
 - username: String (VARCHAR) up to 55 characters.
-  <img src=“Final%20Lab%20Task%202/studentTable.png" alt=“Alt Text“ width=“400" height=“300">
+  
+  <img src="Final%20Lab%20Task%202/studentTable.png" alt="Alt Text" width="400" height="300">
 
 
 # Step 2  Create the Assignment Table
