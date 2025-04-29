@@ -8,7 +8,7 @@
 # Step 1 Create the Student Table
 ## Student tabale
 - username: String (VARCHAR) up to 55 characters. 
-
+https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/studentTable.png
 
 
 # Step 2  Create the Assignment Table
