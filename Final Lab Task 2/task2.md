@@ -27,6 +27,6 @@
 - data: Text.
 
 # ER Diagram or Relational Schema
-
+https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/ERD.png
 
  # SQL Copy of the Database  ->> [Student Assignment Submission]
