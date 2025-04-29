@@ -17,7 +17,7 @@
  - shortname: String (VARCHAR) up to 50 characters.
  - due_date: cannot be NULL
  - url: String (VARCHAR), up to 255 characters, can be NULL.
-https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/assignmentTable.png
+<img src="https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/assignmentTable.png" alt="Alt Text" width="400" height="300">
 
 # Step 3  Create the Submission Table
 ## Submission Table
@@ -26,9 +26,11 @@ https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/assi
 - version: Integer, represent the version of the submision.
 - submit_date: Date, cannot be null.
 - data: Text.
-https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/submisionTable.png
+<img src="https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/submisionTable.png" alt="Alt Text" width="400" height="300">
+
 
 # ER Diagram or Relational Schema
-https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/ERD.png
+<img src="https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/ERD.png" alt="Alt Text" width="400" height="300">
+
 
  # SQL Copy of the Database  ->> [Student Assignment Submission]
