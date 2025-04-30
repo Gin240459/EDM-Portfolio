@@ -13,8 +13,8 @@ This is my data management portfolio in EDMio
 
 ## Final Lab Task ##
 
-- Final Lab Task 1. [Event Management Database] https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%201%20/task1.md
+- Final Lab Task 1. [Event Management Database]([Midterm%20Task%201/task%201.md]https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%201%20/task1.md)
 
-- Final Lab Task 2. [Transforming ER into Relational Tables] https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/task2.md
+- Final Lab Task 2. [Transforming ER into Relational Tables]([Midterm%20Task%201/task%201.md]https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/task2.md)
 
 - Final Lab Task 3. [Table Manipulation]
