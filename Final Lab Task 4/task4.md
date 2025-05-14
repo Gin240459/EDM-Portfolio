@@ -14,7 +14,7 @@ This task involved working with a single database containing two tables: Employe
 <img src="Gin" alt="Alt Text" width="400" height="500">
 
 - Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest.
-  <img src="gin" alt="Alt Text" width="400" height="400">
+  <img src="EMPLOYEEname.PNG" alt="Alt Text" width="400" height="400">
 
 - Retrieve the department names along with the average salary for each department.
    <img src="gin" alt="Alt Text" width="400" height="300">
