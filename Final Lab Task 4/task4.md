@@ -37,5 +37,5 @@ This task involved working with a single database containing two tables: Employe
    -    <img src="hh" alt="Alt Text" width="300" height="500">
 
    ## SQL COPY
-   [Query] 
+   [Query] (https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%204/Final%20task4.sql)
   
