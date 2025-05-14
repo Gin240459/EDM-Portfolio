@@ -17,13 +17,13 @@ This task involved working with a single database containing two tables: Employe
   <img src="EMPLOYEEname.PNG" alt="Alt Text" width="400" height="400">
 
 - Retrieve the department names along with the average salary for each department.
-   <img src="gin" alt="Alt Text" width="400" height="300">
+   <img src="AVGsalary.PNG" alt="Alt Text" width="400" height="300">
 
    ## Problem 2: Consider a table named EmployeeData that stores information about employee in a company.
 
    1. Create a database named employeeDB, use employeeDB
    2. Copy and paste the initial query below then perform the SELECT statements required for each problems.
-   <img src="gin" alt="Alt Text" width="400" height="300">
+   <img src="EmployeeSalary.PNG" alt="Alt Text" width="400" height="300">
   
    #### After enserting a data in the employeeDB, perform the following SELECT statements:
  -  Retrieve the employees along with their full names and salaries from highest paying employee to the lowest.
