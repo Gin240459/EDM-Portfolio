@@ -27,7 +27,7 @@ This task involved working with a single database containing two tables: Employe
   
    #### After enserting a data in the employeeDB, perform the following SELECT statements:
  -  Retrieve the employees along with their full names and salaries from highest paying employee to the lowest.
- <img src="gin" alt="Alt Text" width="400" height="400">
+ <img src="fullname.PNG" alt="Alt Text" width="400" height="400">
   
  -  Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
     <img src="jhuy" alt="Alt Text" width="400" height="300">
