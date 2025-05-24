@@ -21,7 +21,7 @@ salary DECIMAL(10,2),
 hire_date DATE
 );
 
-'''
+###
 ___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
 
