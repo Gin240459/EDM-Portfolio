@@ -29,11 +29,10 @@ Insert the products that will not violate the check constraint into the products
 
 # Task 4:
 
+#  Query Statement
+
 
 ## ER Diagram Representation
-
-
-#  Query Statement
 
 
 ## SQL Copy of the Database
