@@ -1,6 +1,7 @@
 # Final Lab Task 4: Using SELECT Statement
 # Task Description:
 This task involved working with a single database containing two tables: EmployeeSalaries and EmployeeData. I performed a series of SELECT statements to extract and manipulate employee information.
+___
 ## Problem 1. Consider a table named EmployeeSalaries that stores information about the salaries of employees. The table has the following fields:
 - employee_id: INT AUTO_INCREMENT PRIMARY KEY
 - employee_name: VARCHAR(100)
