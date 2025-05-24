@@ -7,16 +7,20 @@ This task involved working with a single database containing two tables: Employe
 - department VARCHAR(50)
 - salary DECIMAL(10,2)
 - hire_date DATE
-___
+
 '''sql
-CREATE DATABASE event_tbl;
-USE event_tbl;
 
-CREATE TABLE event_tbl(
-event_id INT AUTO_INCREMENT PRIMARY KEY,
-event_name VARCHAR(255) NOT NULL);
+CREATE DATABASE payroll;
+USE payroll;
 
-DESCRIBE event_tbl;
+CREATE TABLE EmployeeSalaries (
+employee_id INT AUTO_INCREMENT PRIMARY KEY,
+employee_name VARCHAR(100),
+department VARCHAR(50),
+salary DECIMAL(10,2),
+hire_date DATE
+);
+
 '''
 ___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
