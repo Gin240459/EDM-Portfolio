@@ -25,7 +25,7 @@ Insert the products that will not violate the check constraint into the products
 - Product 8: "Desk Lamp", 24.99
 - Product 9: "External Hard Drive", -79.99
 - Product 10: "Speakers", 9.99
-
+<img src="image/INSERT into product_table;.PNG" alt="Alt Text" width="500" height="300">
 
 # Task 4:
 
