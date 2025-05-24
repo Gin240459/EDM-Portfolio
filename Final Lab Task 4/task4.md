@@ -9,18 +9,14 @@ This task involved working with a single database containing two tables: Employe
 - hire_date DATE
 ___
 '''sql
+CREATE DATABASE event_tbl;
+USE event_tbl;
 
-CREATE DATABASE payroll;
-USE payroll;
+CREATE TABLE event_tbl(
+event_id INT AUTO_INCREMENT PRIMARY KEY,
+event_name VARCHAR(255) NOT NULL);
 
-CREATE TABLE EmployeeSalaries(
-employee_id IN AUTO_INCREMENT PRIMARY KEY,
-employee_name VACHAR(100),
-department VARCHAR(50),
-salary DECIMAL(10,2),
-hire_date DATE 
-);
-
+DESCRIBE event_tbl;
 '''
 ___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
