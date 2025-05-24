@@ -20,3 +20,5 @@ This is my data management portfolio in EDMio
 - Final Lab Task 3. [Table Manipulation] ([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%203/task3.md)
 
 - Final Lab Task 4. [Using SELECT Statement] ([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%204/task4.md)
+
+- Final Lab Task 5. [Using Stored PRocedures Views and Function] ([Midterm%20Task%201/task%201.md]
