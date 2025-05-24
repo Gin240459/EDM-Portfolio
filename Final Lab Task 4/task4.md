@@ -8,26 +8,19 @@ ___
 - department VARCHAR(50)
 - salary DECIMAL(10,2)
 - hire_date DATE
-
-''' sql
+###
+'''sql
 
 CREATE DATABASE payroll;
-
 USE payroll;
 
 CREATE TABLE EmployeeSalaries(
-
 employee_id IN AUTO_INCREMENT PRIMARY KEY,
-
 employee_name VACHAR(100),
-
 department VARCHAR(50),
-
 salary DECIMAL(10,2),
-
 hire_date DATE 
 );
-
 '''
 ___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
