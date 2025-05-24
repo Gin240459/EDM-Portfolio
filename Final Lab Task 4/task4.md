@@ -32,7 +32,7 @@ This task involved working with a single database containing two tables: Employe
  -  Retrieve the average salary from EmployeeData table, where the average salary exceeds $70,000.
     <img src="jhuy" alt="Alt Text" width="400" height="300">
   - Retrieve the full names of employees who earn a salary greater than $100,000.
-<img src="Image/sal 100000.PNG" alt="Alt Text" width="300" height="300">
+<img src="fuulname2.PNG" alt="Alt Text" width="300" height="300">
    - Retrieve the number of employees from the EmployeeData table.
    -    <img src="hh" alt="Alt Text" width="300" height="500">
 
