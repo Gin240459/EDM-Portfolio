@@ -18,3 +18,5 @@ This is my data management portfolio in EDMio
 - Final Lab Task 2. [Transforming ER into Relational Tables] ([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%202/task2.md)
 
 - Final Lab Task 3. [Table Manipulation]
+
+- Final Lab Task 4. [Using SELECT Statement] ([Midterm%20Task%201/task%201.md](https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%204/task4.md)
