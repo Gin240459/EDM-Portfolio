@@ -11,7 +11,7 @@ This task involved working with a single database containing two tables: Employe
 
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
 
-<img src="EmployeeSalary.PNG)" alt="Alt Text" width="400" height="500">
+<img src="EmployeeSalary.PNG" alt="Alt Text" width="400" height="500">
 
 - Retrieve the employee_name and salary of employees and arrange from the highest salary to the lowest.
   <img src="EMPLOYEEname.PNG" alt="Alt Text" width="400" height="400">
