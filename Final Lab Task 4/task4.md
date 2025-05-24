@@ -34,7 +34,7 @@ This task involved working with a single database containing two tables: Employe
   - Retrieve the full names of employees who earn a salary greater than $100,000.
 <img src="fuulname2.PNG" alt="Alt Text" width="300" height="300">
    - Retrieve the number of employees from the EmployeeData table.
-   -    <img src="hh" alt="Alt Text" width="300" height="500">
+   -    <img src="EmployeeDatetable.png" alt="Alt Text" width="300" height="500">
 
    ## SQL COPY
    [Query] (https://github.com/Gin240459/EDM-Portfolio/blob/main/Final%20Lab%20Task%204/Final%20task4.sql)
