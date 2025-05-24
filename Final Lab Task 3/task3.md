@@ -33,7 +33,7 @@ Insert the products that will not violate the check constraint into the products
 <img src="InsertProductTBL.png" alt="Alt Text" width="500" height="300">
 
 # Product Table
-
+<img src="product_tbl.png" alt="Alt Text" width="500" height="300">
 
 ## ER Diagram Representation
 
