@@ -7,7 +7,7 @@ This task involved working with a single database containing two tables: Employe
 - department VARCHAR(50)
 - salary DECIMAL(10,2)
 - hire_date DATE
-<img src="gin" alt="Alt Text" width="400" height="500">
+<img src="EmployeeSalaries.png" alt="Alt Text" width="400" height="500">
 
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
 
