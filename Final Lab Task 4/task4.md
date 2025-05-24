@@ -7,6 +7,19 @@ This task involved working with a single database containing two tables: Employe
 - department VARCHAR(50)
 - salary DECIMAL(10,2)
 - hire_date DATE
+  '''sql
+CREATE DATABASE payroll;
+USE payroll;
+
+CREATE TABLE EmployeeSalaries (
+employee_id INT AUTO_INCREMENT PRIMARY KEY,
+employee_name VARCHAR(100),
+department VARCHAR(50),
+salary DECIMAL(10,2),
+hire_date DATE
+);
+'''
+  
 <img src="gin" alt="Alt Text" width="300" height="300">
 
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
