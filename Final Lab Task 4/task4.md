@@ -13,7 +13,7 @@ ___
 CREATE DATABASE payroll;
 USE payroll;
 
-CREATE TABLE EmployeeSalaries (
+CREATE TABLE EmployeeSalaries(
 employee_id IN AUTO_INCREMENT PRIMARY KEY,
 employee_name VACHAR(100),
 department VARCHAR(50),
