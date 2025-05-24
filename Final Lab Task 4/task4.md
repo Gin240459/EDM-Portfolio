@@ -11,6 +11,7 @@ This task involved working with a single database containing two tables: Employe
 '''sql
 CREATE DATABASE payroll;
 USE payroll;
+
 CREATE TABLE EmployeeSalaries (
 employee_id IN AUTO_INCREMENT PRIMARY KEY,
 employee_name VACHAR(100),
@@ -19,7 +20,7 @@ salary DECIMAL(10,2),
 hire_date DATE 
 );
 '''
-
+___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
 
 <img src="EmployeeSalary.PNG" alt="Alt Text" width="400" height="500">
