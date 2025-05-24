@@ -10,6 +10,7 @@ ___
 - hire_date DATE
 
 '''sql
+
 CREATE DATABASE payroll;
 USE payroll;
 
@@ -20,6 +21,7 @@ department VARCHAR(50),
 salary DECIMAL(10,2),
 hire_date DATE 
 );
+
 '''
 ___
   #### After enserting a data in the EmployeeSalaries table, perform the following SELECT statements:
