@@ -8,7 +8,7 @@ This task involved working with a single database containing two tables: Employe
 - salary DECIMAL(10,2)
 - hire_date DATE
 
-'''sql
+###sql
 
 CREATE DATABASE payroll;
 USE payroll;
